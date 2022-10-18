@@ -15,4 +15,21 @@ Desafío  de hoy: Introducción a express
   
   [![2.png](https://i.postimg.cc/WpgvG9Lv/2.png)](https://postimg.cc/grzQdH2S)
   
+  POST 1
+  
+  [![3.png](https://i.postimg.cc/3JfndTSJ/3.png)](https://postimg.cc/3dpgcPQP)
+  
+  POST 2
+  
+  [![4.png](https://i.postimg.cc/V6FF1Q0w/4.png)](https://postimg.cc/XGp5cPg1)
+  
+  POST 3
+  
+  [![5.png](https://i.postimg.cc/3NSC4XZb/5.png)](https://postimg.cc/GTDs6sVk)
+  
+  POST 4
+  
+  [![6.png](https://i.postimg.cc/26C40ccK/6.png)](https://postimg.cc/VSHr6Rcq)
+  
+  
   
